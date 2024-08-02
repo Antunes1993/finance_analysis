@@ -71,19 +71,19 @@ Feel free to modify the code in the notebooks to suit your specific needs or exp
 
 
 # Files
-001_historical_average_analysis.ipynb: Notebook for Historical Average Analysis
-002_moving_average.ipynb: Notebook for Simple Moving Average and Exponential Moving Average calculations and visualizations.
-003_momentum_analysis.ipynb: Notebook for momentum indicator analysis.
-001_backtesting_analysis.ipynb: Notebook for backtesting SMA and EMA strategies.
-requirements.txt: File listing the required Python packages.
-README.md: This file.
+* 001_historical_average_analysis.ipynb: Notebook for Historical Average Analysis
+* 002_moving_average.ipynb: Notebook for Simple Moving Average and Exponential Moving Average calculations and visualizations.
+* 003_momentum_analysis.ipynb: Notebook for momentum indicator analysis.
+* 001_backtesting_analysis.ipynb: Notebook for backtesting SMA and EMA strategies.
+* requirements.txt: File listing the required Python packages.
+* README.md: This file.
 
 # Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and create a pull request.
 
-Fork the repository.
-Create a feature branch (git checkout -b feature-branch).
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Create a new Pull Request.
-Please ensure that any new code adheres to the existing style and includes relevant tests where applicable.
+* Fork the repository.
+* Create a feature branch (git checkout -b feature-branch).
+* Commit your changes (git commit -am 'Add new feature').
+* Push to the branch (git push origin feature-branch).
+* Create a new Pull Request.
+* Please ensure that any new code adheres to the existing style and includes relevant tests where applicable.
