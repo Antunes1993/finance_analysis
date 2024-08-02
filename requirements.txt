@@ -1,0 +1,11 @@
+numpy
+pandas
+datetime
+pandas_datareader
+matplotlib
+seaborn 
+plotly
+yfinance 
+scikit-learn
+scipy
+jupyter
