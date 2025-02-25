@@ -9,3 +9,4 @@ yfinance
 scikit-learn
 scipy
 jupyter
+streamlit_extras
